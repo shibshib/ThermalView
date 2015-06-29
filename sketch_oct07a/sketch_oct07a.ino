@@ -1,3 +1,9 @@
+/*
+* Created by: Ala Shaabana
+* This program takes input from the 64 sensors on board the Grid-EYE sensor and 
+* sends it via USB interface to the computer attached
+*/
+
 #include <Wire.h>
 
 byte pixelTempL;
