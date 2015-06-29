@@ -1,5 +1,9 @@
 package ThermalView;
 
+/*
+* Takes input from USB interface and displays it as overlay on top of webcam view, creating a "heat map"
+*/
+
 import java.awt.Color;
 import java.io.IOException;
 import java.io.InputStream;
